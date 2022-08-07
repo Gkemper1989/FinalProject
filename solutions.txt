@@ -1,0 +1,226 @@
+First compilation!<class 'ortools.sat.python.cp_model.CpSolver'>
+Solution 1
+Day 0
+  Carer 0 works shift 1
+  Carer 1 does not work
+  Carer 2 works shift 0
+  Carer 3 works shift 2
+Day 1
+  Carer 0 does not work
+  Carer 1 works shift 0
+  Carer 2 works shift 2
+  Carer 3 works shift 1
+Day 2
+  Carer 0 does not work
+  Carer 1 works shift 2
+  Carer 2 works shift 1
+  Carer 3 works shift 0
+Day 3
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Day 4
+  Carer 0 works shift 2
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 does not work
+Day 5
+  Carer 0 works shift 1
+  Carer 1 works shift 2
+  Carer 2 works shift 0
+  Carer 3 does not work
+Day 6
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Solution 2
+Day 0
+  Carer 0 works shift 1
+  Carer 1 does not work
+  Carer 2 works shift 0
+  Carer 3 works shift 2
+Day 1
+  Carer 0 does not work
+  Carer 1 works shift 1
+  Carer 2 works shift 2
+  Carer 3 works shift 0
+Day 2
+  Carer 0 does not work
+  Carer 1 works shift 2
+  Carer 2 works shift 1
+  Carer 3 works shift 0
+Day 3
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Day 4
+  Carer 0 works shift 2
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 does not work
+Day 5
+  Carer 0 works shift 1
+  Carer 1 works shift 2
+  Carer 2 works shift 0
+  Carer 3 does not work
+Day 6
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Solution 3
+Day 0
+  Carer 0 works shift 1
+  Carer 1 does not work
+  Carer 2 works shift 0
+  Carer 3 works shift 2
+Day 1
+  Carer 0 does not work
+  Carer 1 works shift 1
+  Carer 2 works shift 2
+  Carer 3 works shift 0
+Day 2
+  Carer 0 does not work
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 works shift 2
+Day 3
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Day 4
+  Carer 0 works shift 2
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 does not work
+Day 5
+  Carer 0 works shift 1
+  Carer 1 works shift 2
+  Carer 2 works shift 0
+  Carer 3 does not work
+Day 6
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Solution 4
+Day 0
+  Carer 0 works shift 1
+  Carer 1 does not work
+  Carer 2 works shift 0
+  Carer 3 works shift 2
+Day 1
+  Carer 0 does not work
+  Carer 1 works shift 0
+  Carer 2 works shift 2
+  Carer 3 works shift 1
+Day 2
+  Carer 0 does not work
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 works shift 2
+Day 3
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Day 4
+  Carer 0 works shift 2
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 does not work
+Day 5
+  Carer 0 works shift 1
+  Carer 1 works shift 2
+  Carer 2 works shift 0
+  Carer 3 does not work
+Day 6
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Solution 5
+Day 0
+  Carer 0 works shift 1
+  Carer 1 does not work
+  Carer 2 works shift 0
+  Carer 3 works shift 2
+Day 1
+  Carer 0 does not work
+  Carer 1 works shift 0
+  Carer 2 works shift 2
+  Carer 3 works shift 1
+Day 2
+  Carer 0 does not work
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 works shift 2
+Day 3
+  Carer 0 works shift 1
+  Carer 1 works shift 2
+  Carer 2 does not work
+  Carer 3 works shift 0
+Day 4
+  Carer 0 works shift 2
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 does not work
+Day 5
+  Carer 0 works shift 1
+  Carer 1 works shift 2
+  Carer 2 works shift 0
+  Carer 3 does not work
+Day 6
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Stop search after 5 solutions
+Solution 6
+Day 0
+  Carer 0 works shift 1
+  Carer 1 does not work
+  Carer 2 works shift 0
+  Carer 3 works shift 2
+Day 1
+  Carer 0 does not work
+  Carer 1 works shift 0
+  Carer 2 works shift 2
+  Carer 3 works shift 1
+Day 2
+  Carer 0 does not work
+  Carer 1 works shift 2
+  Carer 2 works shift 1
+  Carer 3 works shift 0
+Day 3
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Day 4
+  Carer 0 works shift 2
+  Carer 1 works shift 0
+  Carer 2 works shift 1
+  Carer 3 does not work
+Day 5
+  Carer 0 works shift 1
+  Carer 1 works shift 2
+  Carer 2 works shift 0
+  Carer 3 does not work
+Day 6
+  Carer 0 works shift 1
+  Carer 1 works shift 0
+  Carer 2 does not work
+  Carer 3 works shift 2
+Stop search after 5 solutions
+
+Statistics
+  - conflicts      : 70
+  - branches       : 281
+  - wall time      : 0.002375 s
+  - solutions found: 6
+  - solutions status: FEASIBLE
